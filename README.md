@@ -1,5 +1,5 @@
 # Deeplearning
-My notes I did for my data science summer internship at A*STAR. Studied PCA and various machine learning techniques from Data Driven Science & Engineering Machine Learning, Dynamical Systems, and Control written by Steven L. Brunton
+My notes I did for my ML Engineer summer internship at A*STAR. Studied PCA and various machine learning techniques from Data Driven Science & Engineering Machine Learning, Dynamical Systems, and Control written by Steven L. Brunton
 
 Studied everything from this playlist:
 https://www.youtube.com/playlist?list=PLMrJAkhIeNNRpsRhXTMt8uJdIGz9-X_1-
